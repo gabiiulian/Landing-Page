@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #1f2937;
+    color: white;
+    font-family: Hero;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.links{
+    display: flex;
+    gap: 20px;
+}
+
+li{
+    list-style-type: none;
+}
